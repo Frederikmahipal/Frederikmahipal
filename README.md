@@ -2,7 +2,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Flutter**
 - **React**
@@ -23,7 +23,7 @@
 
 ---
 
-### 🚀 Current Focus
+### Current Focus
 - Pursuing my Masters in medialogy
 ---
 
