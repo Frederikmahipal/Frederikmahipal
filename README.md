@@ -11,7 +11,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![Frederik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frederikmahipal&show_icons=true&theme=radical&hide_border=true)
 
