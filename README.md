@@ -16,7 +16,7 @@
 ---
 
 ## About Me
-I'm a **Master’s student in Medialogy** with a strong background in **software and application development**.  
+I'm a **Master’s student in Medialogy** with a strong background in **software and full-stack development**.  
 I enjoy building interactive systems where **technology, users, and experience design** meet.
 
 My main interests are:
