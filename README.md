@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://jeglederefterjob.nu">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/frederik-vilhelmsen-08628b222/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
