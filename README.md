@@ -30,7 +30,7 @@ I come from a web-development background and enjoy expanding into **new technolo
 
 ## Technologies I like working with
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,docker,nodejs,ts,unity,python,javascript,tailwindcss&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,docker,nodejs,ts,python,javascript,tailwindcss&theme=dark" />
 </p>
 
 ---
