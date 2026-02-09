@@ -76,6 +76,5 @@ I come from a web-development background and enjoy expanding into **new technolo
   **Repository:** https://github.com/frederikmahipal/livescore_client
 </details>
 
-
-
+---
 
