@@ -78,3 +78,4 @@ I come from a web-development background and enjoy expanding into **new technolo
 
 ---
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Frederikmahipal&theme=radical&hide_border=true)
